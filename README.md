@@ -1,3 +1,7 @@
+Это бек для vk mini app SESC MATE https://vk.com/app7227055
+Также сюда встроен бот вк для уведомлений об изменениях расписания
+
+
 **INSTALLING**
 
 `git clone https://github.com/S3K-studio/SESC_MATE-backend.git`  
