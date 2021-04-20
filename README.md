@@ -4,6 +4,7 @@
 `cd SESC_MATE-backend`  
 `python3 -m venv venv`  
 `pip install -r requirements.txt`  
+`install redis on your machine`
 
 **STARTING**
 
