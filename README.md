@@ -14,6 +14,8 @@
 
 `python3 manage.py makemigrations`  
 `python3 manage.py migrate`  
+*Create environment variable*   
+`DJANGO_SETTINGS_MODULE=sesc_mate.settings.production` or `DJANGO_SETTINGS_MODULE=sesc_mate.settings.debug`  
 `python3 manage.py runserver`
 
 *On Windows:*   
